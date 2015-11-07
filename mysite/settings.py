@@ -88,7 +88,8 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Brazil/West'
+TIME_ZONE = 'America/Sao_Paulo'
+#TIME_ZONE = 'Brazil/West'
 
 USE_I18N = True
 
